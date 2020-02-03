@@ -1,1 +1,1 @@
-write-output "Script worked" | out-file c:\Scripts\output.txt
+write-output "Script worked successfully" | out-file c:\Scripts\output.txt
